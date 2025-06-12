@@ -1,0 +1,24 @@
+/* Estilos generales: Aplican a toda la pagina */
+body{
+    font-family:`Arial´, sans-serif;/*Tipografia */
+    line-height: 1.6; /* Espaciando entre lineas */
+    margin: 0;
+    padding: 0;
+    background-color:#f4f4; /* Color de fondo*/
+    color: #333; /* Color del texto principal*/
+}
+/*ENCABEZADO: Estilos para la seccion<header> */
+header{
+    background-color: #2c3e50; /* Azul oscuro */ 
+    color: white;
+    text-align:center;
+    padding: 1rem 0; /* Espaciado interno */
+}
+/* SECCIONES: Estilos para<section> */
+section {
+    margin: 1rem;
+    padding: 1rem;
+    background-color: white;
+    border-radius: 5px;
+}
+}
